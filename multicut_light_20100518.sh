@@ -4,7 +4,7 @@
 # Anleitung  -> http://wiki.onlinetvrecorder.com/index.php/Cutlist-Austausch/Linux-Skripte 
 # Diskussion -> http://otrforum.com/showthread.php?t=38342
 
-Stand="18.05.2010"
+Stand="02.07.2016"
 
 # Konfiguration
 ADversion="2.5"						# Version von Avidemux (2.4 oder 2.5)
